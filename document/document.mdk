@@ -235,7 +235,7 @@ Oh, comeone :)
 
 * Korzysta z latwo obliczalnej funkcji hashujacej
  * latwo - obliczana w czasie stalym na podstawie poprzedniej
- * np. zamiana liter na liczby
+ * np. zamiana liter na liczby (div 10 >> * 10 >> + next)
 * Oblicza te hashe w O(N)
 * Przelatuje w N jak napotka to robi naive matching
 * Worst case: (N-M)*M
