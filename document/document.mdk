@@ -82,3 +82,10 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
  * eliminacja rekursji
  * „quicksort w miejscu”
 * QuickHeapsort 
+
+## Sortowane szczególnych danych:  
+* sortowanie przez zliczanie,  
+* sortowanie kubełkowe,  
+* sortowanie leksykograficzne ciągów jednakowej długości,  
+* sortowanie leksykograficzne ciągów niekoniecznie jednakowej długości  
+ * zastosowanie: izomorfizm ukorzenionych drzew (na ćwiczeniach: uogólnimy do drzew bez korzeni), 
