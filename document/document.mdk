@@ -227,6 +227,10 @@ Oh, comeone :)
 
 ## Wyszukiwanie wzorców automatem skończonym. 
 
+* Tabela wzorzec * alfabet
+* Wypelnij stany przejsc:
+ * TODO: jak to bylo dokladnie?
+
 ## Algorytm Karpa-Rabina. 
 
 * Korzysta z latwo obliczalnej funkcji hashujacej
@@ -238,6 +242,10 @@ Oh, comeone :)
 * Ave: Linear
 
 ## Algorytm KMP (Knutha-Morrisa-Pratta). 
+
+* Oblicz najdluzszy prefixosufix dla wzorca ropoczynajac od drugiej litery
+* Wykorzystaj to by sobie troche poskakac :)
+ * TODO: jak to konkretnie dziala?
 
 ## Algorytm Boyera-Moore’a. 
 
