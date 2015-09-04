@@ -35,30 +35,20 @@ Beamer Theme  : singapore
  * [Optimal Bounds for the ChangeMaking
 Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 * [Algorytmy dla problemu MST:](https://www.ics.uci.edu/~eppstein/161/960206.html) 
- * Algorytm Prima 
- * Algorytm Kruskala 
- * Algorytm Boruvki 
+ * Algorytm Prima - dolaczaj najmniejsza
+ * Algorytm Kruskala - posortuj i bierz
+ * Algorytm Boruvki - buduj coraz wieksze mst jak w primie tyle naraz wszsytkie
 * [Problem pokrycia zbioru](http://math.mit.edu/~goemans/18434S06/setcover-tamara.pdf)
  * [Algorytm O(logn ) aproksymacyjny](http://www.cs.cmu.edu/~avrim/451f12/lectures/lect1106.pdf) 
 
-
-
-~~ Notes
-Oh hey, these are some notes. They'll be hidden in your presentation, but you
-can see them if you open the speaker notes window (hit 's' on your keyboard).
-~~
-
-## Code
-
-Here is code, highlighted by Madoko 
-
-``` javascript
-function sqr( x ) {
-  var \(&pi;\) = 3.141593;
-  return x*x;  /* the square */
-}
-```
-We used `\(` and `\)` to escape into markdown to write &pi;.
+## Dziel i zwyciężaj
+ 
+* Schemat ogólny metody 
+ * "Master Theorem" 
+* Sortowanie metodą dziel i zwyciężaj: 
+ * sortowanie przez scalanie 
+ * Quicksort 
+ * Mnożenie wielkich liczb - kruskal 
 
 <!-- Example of nested vertical slides -->
 ~ Begin Vertical { data-background=Gainsboro }
