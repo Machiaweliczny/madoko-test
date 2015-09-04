@@ -1,15 +1,15 @@
 [INCLUDE=presentation]
-Title         : Demo presentation in Madoko
-Sub Title     : In both HTML and PDF
-Author        : Daan Leijen
-Affiliation   : Microsoft Research
-Email         : daan@microsoft.com
-Reveal Theme  : sky
+Title         : Powtórka tematów z AiSDu
+Sub Title     : Szybki review
+Author        : Damian Trojnar
+Affiliation   : UWr
+Email         : trojnar.damian@gmail.com
+Reveal Theme  : solarized
 Beamer Theme  : singapore
 
 [TITLE]
 
-# Content
+# Materiał
 
 [TOC]
 
