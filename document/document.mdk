@@ -177,14 +177,23 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 ## [Union-Find](https://www.cs.princeton.edu/~rs/AlgsDS07/01UnionFind.pdf)
 
 * Problem:
- * Dane sa zbiory elementów
- * Czy dwa elementy należą do tego samego zbioru?
- * n elementow, m operacji
-* Quick-find (zmieniaj wszystkim)[mn]
-* Quick-union (przepnij przedstawiciela subsetu)[mn]
-* Weighted-quick-union(pamietaj rozmiar, mniejsze do wiekszego)[mlog(n)]
-* Path-compression(przy findzie recursive przepinka roota)[n + mlog*(n)]
+ * Dane: Podzbiory
+ * Pytanie: Czy dwa elementy należą do tego samego podzbioru?
+ * n elementow, m operacji(find lub union)
+* Quick-find (zmieniaj wszystkim) - MN
+* Quick-union (przepnij przedstawiciela subsetu) -MN
+* Weighted-quick-union(pamietaj rozmiar, mniejsze do wiekszego) - Mlog(N)
+* Path-compression(przy findzie recursive przepinka roota)- N + Mlog*(N)
  * [log*(n)](https://en.wikipedia.org/wiki/Iterated_logarithm) - jest stała w tym wszechświecie
 
 * NOTE: prosty algorytm, ale dowód jest trudny
+
+
+## Drzewa splay.
+
+* Struktury samoorganizujące się - idea.
+* Heurystyki dla list samoorganizujących się.
+* Drzewa rozchylane (splay trees). 
+* Operacja splay. 
+* Analiza zamortyzowana ciągów operacji splay. 
 
