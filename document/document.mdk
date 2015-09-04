@@ -137,17 +137,21 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 * Zastosowanie: Szybkie descrease-key - Dijkstra
 * Analiza kosztu -> kolejne strony
 
-## Wstawianie:
+## Kopce fibonnaciego
+### Wstawianie:
   * ?
 
-## Usuwanie:
+## Kopce fibonnaciego
+### Usuwanie:
   * ?
 
-## Descrease-key
+## Kopce fibonnaciego
+### Descrease-key
   * jak zaburzy kopiec to zmien rodzica na czarnego
   * Jak jest rodzic czarny to odetnij siebie i odetnij rodzica rekurencyjnie
 
-## extract-min:
+## Kopce fibonnacigo
+### extract-min:
   * usuwamy min - wrzucamy dzieci na lisle korzeni
   * sprzatamy, aby bylo po jednym danego stopnia
 
@@ -156,9 +160,9 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 * Kolizje
  * nawlekanie
  * adresowanie otwarte
-  * metoda liniowa
-  * metoda kwadratowa
-  * podwójne hashowanie
+   * metoda liniowa
+   * metoda kwadratowa
+   * podwójne hashowanie
 * Oczekiwana liczba prób przy poszukiwaniu elementu
 * Uniwersalne rodziny funkcji haszujacych
 
