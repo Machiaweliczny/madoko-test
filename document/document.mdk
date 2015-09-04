@@ -31,13 +31,15 @@ Beamer Theme  : singapore
 
 ## Algorytmy zachłanne:
 
-* Rozmienianie pieniędzy. 
-* Algorytmy dla problemu MST: 
+* [Rozmienianie pieniędzy.](https://crypto.stanford.edu/~zhandry/2012-Summer-CS161/docs/lectures/06-Greedy-1.pdf) 
+ * [Optimal Bounds for the ChangeMaking
+Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
+* [Algorytmy dla problemu MST:](https://www.ics.uci.edu/~eppstein/161/960206.html) 
  * Algorytm Prima 
  * Algorytm Kruskala 
  * Algorytm Boruvki 
-* Problem pokrycia zbioru 
- * Algorytm O(logn ) aproksymacyjny 
+* [Problem pokrycia zbioru](http://math.mit.edu/~goemans/18434S06/setcover-tamara.pdf)
+ * [Algorytm O(logn ) aproksymacyjny](http://www.cs.cmu.edu/~avrim/451f12/lectures/lect1106.pdf) 
 
 
 
