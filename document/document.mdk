@@ -88,4 +88,36 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 * sortowanie kubełkowe,  
 * sortowanie leksykograficzne ciągów jednakowej długości,  
 * sortowanie leksykograficzne ciągów niekoniecznie jednakowej długości  
- * zastosowanie: izomorfizm ukorzenionych drzew (na ćwiczeniach: uogólnimy do drzew bez korzeni), 
+ * zastosowanie: izomorfizm ukorzenionych drzew
+ 
+
+## Drzewa zbalansowane.
+* AVL
+* czerwono-czarne
+* B-drzewa
+* 1-2-3 drzewa
+
+## Drzewa AVL 
+* definicja - BST z max roznica wysokosci 1 w kazdym wezle  
+* ograniczenie na wysokość - ?
+* realizacja operacji słownikowych 
+ * wstawiamy jak w BST
+ * rotujemy(zig, zig-zig, zig-zag - nie zmieniaja preorder) 
+
+## Drzewa czerwono-czarne  
+* definicja - BST z czerwonymi lub czarnymi wierzcholkami
+ * root jest czarny
+ * lisc jest czarny
+ * czerwony ma tylko czarnych synów :/
+ * na każdej scieżce od roota do liścia jest tyle samo czarnych
+* ograniczenie na wysokość - ?
+* realizacja operacji słownikowych.    
+
+## B-drzewa.  
+* definicja
+* liczba operacji i/o jako miara złożoności
+* realizacja operacji słownikowych
+
+
+## 1-2-3 drzewa 
+* związek w drzewami czerwono czarnymi 
