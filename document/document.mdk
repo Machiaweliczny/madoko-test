@@ -41,9 +41,8 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 * [Problem pokrycia zbioru](http://math.mit.edu/~goemans/18434S06/setcover-tamara.pdf)
  * [Algorytm O(logn ) aproksymacyjny](http://www.cs.cmu.edu/~avrim/451f12/lectures/lect1106.pdf) 
 
-## Dziel i zwyciężaj
- 
-* Schemat ogólny metody 
+## Dziel i zwyciezaj
+
 * Master Theorem 
 * Sortowanie metodą dziel i zwyciężaj: 
  * sortowanie przez scalanie 
