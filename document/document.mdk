@@ -231,7 +231,7 @@ Oh, comeone :)
 * Wypelnij stany przejsc:
  * TODO: jak to bylo dokladnie?
 
-## Algorytm Karpa-Rabina. 
+## [Algorytm Karpa-Rabina](http://www.geeksforgeeks.org/searching-for-patterns-set-3-rabin-karp-algorithm/)
 
 * Korzysta z latwo obliczalnej funkcji hashujacej
  * latwo - obliczana w czasie stalym na podstawie poprzedniej
@@ -241,7 +241,7 @@ Oh, comeone :)
 * Worst case: (N-M)*M
 * Ave: Linear
 
-## Algorytm KMP (Knutha-Morrisa-Pratta). 
+## [Algorytm KMP](http://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/)
 
 * Oblicz najdluzszy prefixosufix dla wzorca ropoczynajac od drugiej litery
 * Wykorzystaj to by sobie troche poskakac :)
