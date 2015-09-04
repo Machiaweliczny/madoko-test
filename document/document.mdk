@@ -139,11 +139,14 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 
 ## Wstawianie:
   * ?
+
 ## Usuwanie:
   * ?
+
 ## Descrease-key
   * jak zaburzy kopiec to zmien rodzica na czarnego
   * Jak jest rodzic czarny to odetnij siebie i odetnij rodzica rekurencyjnie
+
 ## extract-min:
   * usuwamy min - wrzucamy dzieci na lisle korzeni
   * sprzatamy, aby bylo po jednym danego stopnia
