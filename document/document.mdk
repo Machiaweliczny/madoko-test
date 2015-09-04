@@ -121,7 +121,7 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 ## 1-2-3 drzewa 
 * związek w drzewami czerwono czarnymi 
 
-## Kopce dwumianowe
+## [Kopce dwumianowe](http://iair.mchtr.pw.edu.pl/~bputz/aisd_cpp/lekcja6/segment3/main.htm)
 
 * Specificzna struktura - porównanie do zapisu binarnego
 * Lista kopców - każdy ma mieć różny stopień roota
@@ -132,7 +132,7 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
  * Descrease-key
  * extract-min:
 
-## Kopce Fibonacciego.
+## [Kopce Fibonacciego](http://wazniak.mimuw.edu.pl/index.php?title=Algorytmy_i_struktury_danych/Kolejki_priorytetowe)
 * Inaczej leniwe kopce dwumianowe - tylko po extract-min zachowuja różne stopnie korzenia
 * Zastosowanie: Szybkie descrease-key - Dijkstra
 * Analiza kosztu -> kolejne strony
