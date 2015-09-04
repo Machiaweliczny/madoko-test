@@ -118,6 +118,32 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 * liczba operacji i/o jako miara złożoności
 * realizacja operacji słownikowych
 
-
 ## 1-2-3 drzewa 
 * związek w drzewami czerwono czarnymi 
+
+## Kopce dwumianowe
+
+* Specificzna struktura - porównanie do zapisu binarnego
+* Lista kopców - każdy ma mieć różny stopień roota
+* Zastosowanie: Zlączalne kolejki priorytetowe
+* Analiza kosztu:
+ * Wstawianie: 
+ * Usuwanie:
+ * Descrease-key
+ * extract-min:
+
+## Kopce Fibonacciego.
+* Inaczej leniwe kopce dwumianowe - tylko po extract-min zachowuja różne stopnie korzenia
+* Zastosowanie: Szybkie descrease-key - Dijkstra
+* Analiza kosztu -> kolejne strony
+
+## Wstawianie:
+  * ?
+## Usuwanie:
+  * ?
+## Descrease-key
+  * jak zaburzy kopiec to zmien rodzica na czarnego
+  * Jak jest rodzic czarny to odetnij siebie i odetnij rodzica rekurencyjnie
+## extract-min:
+  * usuwamy min - wrzucamy dzieci na liste korzeni
+  * sprzatamy, aby bylo po jednym danego stopnia
