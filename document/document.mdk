@@ -132,12 +132,12 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
  * Descrease-key
  * extract-min:
 
+~ Begin Vertical
+
 ## [Kopce Fibonacciego](http://wazniak.mimuw.edu.pl/index.php?title=Algorytmy_i_struktury_danych/Kolejki_priorytetowe)
 * Inaczej leniwe kopce dwumianowe - tylko po extract-min zachowuja różne stopnie korzenia
 * Zastosowanie: Szybkie descrease-key - Dijkstra
 * Analiza kosztu (w dól)
-
-~ Begin Vertical
 
 ## Kopce fibonnaciego
 ### Wstawianie:
