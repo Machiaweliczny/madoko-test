@@ -24,24 +24,22 @@ Beamer Theme  : singapore
  * [Podwójna kolejka priorytetowa](https://en.wikipedia.org/wiki/Min-max_heap)
  
 [Succinct explaination](http://www.cs.cmu.edu/~adamchik/15-121/lectures/Binary%20Heaps/heaps.html)
+
 [Other good presentation](http://courses.cs.washington.edu/courses/cse373/06sp/handouts/lecture10.pdf)
+
 [Budowanie w O(n)](http://www.cs.umd.edu/~meesh/351/mount/lectures/lect14-heapsort-analysis-part.pdf)
-## Reveal.js
 
-`reveal.js` is a framework for easily creating beautiful presentations using
-HTML. You'll need a browser with support for CSS 3D transforms to see it in
-its full glory. 
+## Algorytmy zachłanne:
 
-And any Madoko features just work. Here is some math:
+* Rozmienianie pieniędzy. 
+* Algorytmy dla problemu MST: 
+ * Algorytm Prima 
+ * Algorytm Kruskala 
+ * Algorytm Boruvki 
+* Problem pokrycia zbioru 
+ * Algorytm O(logn ) aproksymacyjny 
 
-~ Begin Framed { padding=1ex margin-top=1ex }
-A famous equation is $e = mc^2$, but this one is 
-famous too:
 
-~ Equation  {#eq-gaussian}
-\int_{-\infty}^\infty e^{-a x^2} d x = \sqrt{\frac{\pi}{a}} 
-~
-~ End Framed
 
 ~~ Notes
 Oh hey, these are some notes. They'll be hidden in your presentation, but you
