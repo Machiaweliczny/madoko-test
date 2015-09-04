@@ -280,7 +280,7 @@ matched = (d & matchMask), gdzie matchMask = 1 << paternLength-1;
 
 ## FFT 
 
-Nasze ulubione zagadnienie :)
+Nasze ulubione zagadnienie :) W CLRS dobrze opisane.
 
 * Idea. 
 * Dyskretna transformacja Fouriera. 
