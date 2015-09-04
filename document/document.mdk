@@ -276,9 +276,9 @@ matched = (d & matchMask), gdzie matchMask = 1 << paternLength-1;
 
 ~ End Vertical
 
-## FFT 
-
 ~ Begin Vertical
+
+## FFT 
 
 Nasze ulubione zagadnienie :)
 
@@ -294,7 +294,16 @@ Mnożmy wielomiany w czasie nlog(n)
 
 ## Dyskretna transformacja Fouriera. 
 
+* Przemiel wielomian na reprezentacje punktowa w dyskretnych pierwiastkach jedności
+* Wykorzystujac wlasnosc opisana ponizej pomnoz w czasie logarytmicznym
+* Przemial wielomian na postac normalna 
+* Profit?
+
 ## Własności n-tych pierwiastków z jedności. 
+
+* Pierwiastki z jednosci to inaczej kolko o promieniu 1 podzielone na n rownych czesci polprostymi z (0,0) na przecieciu tych prostych z okregiem znajduja sie te pierwiastki(zespolone)
+* Wlasność mnożenia:
+  * TODO
 
 ## Zastosowanie do mnożenia macierzy. 
 
