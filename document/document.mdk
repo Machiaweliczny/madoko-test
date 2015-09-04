@@ -311,3 +311,17 @@ Mnożmy wielomiany w czasie nlog(n)
 ## Transformacja odwrotna. 
 
 ~ End Vertical
+
+## Sieci sortujące.
+
+* Zasada 0-1 - kowa
+* Sieć bitoniczna 
+ * sieci półczyszczące
+ * sieć sortująca ciągi bitoniczne
+ * sieć scalająca
+ 
+## Algorytm KMR(Karpa-Millera-Rosenberga)
+
+To jest genialne :) Też w Cormenie jest spoko opisane.
+
+* Kolejka priorytetowa w O(log log n) - drzewa van Emde Boasa.
