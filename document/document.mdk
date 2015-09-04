@@ -221,6 +221,8 @@ BST z randomami urzymujacymi własność kopca :)
 
 ## Algorytm naiwny. 
 
+Oh, comeone :)
+
 ## Wyszukiwanie wzorców automatem skończonym. 
 
 ## Algorytm Karpa-Rabina. 
@@ -229,6 +231,21 @@ BST z randomami urzymujacymi własność kopca :)
 
 ## Algorytm Boyera-Moore’a. 
 
-## Algorytm Shift-And.
+## [Algorytm Shift-And](http://videlalvaro.github.io/2014/01/shift-and-visualization.html)
+
+Spoko jest ta prezka w nagłówku
+
+* Bitmaska D - do sledzenia pokrycia
+* Dla kazdej litery alfabetu tworzymy bitmaske(b) o dlugosci wzorca
+ * 1 tam gdzie wystepuje we wzorcu
+* Lecimy literka po literce po tekscie
+* Cały trick to to:
+```
+d = ((d << 1) | 1) & (b[text.charAt(i)] | 0);
+```
+* Sprawdzamy lub Resetujemy:
+```
+matched = (d & matchMask), gdzie matchMask = 1 << paternLength-1;
+```
 
 ~ End Vertical
