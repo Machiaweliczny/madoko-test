@@ -173,3 +173,18 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 * Słownik statyczny
 * Dwupoziomowa konstrukcja(?)  
 * Istnienie odpowiednich fukcji haszujacych
+
+## [Union-Find](https://www.cs.princeton.edu/~rs/AlgsDS07/01UnionFind.pdf)
+
+* Problem:
+ * Dane sa zbiory elementów
+ * Czy dwa elementy należą do tego samego zbioru?
+ * n elementow, m operacji
+* Quick-find (zmieniaj wszystkim)[mn]
+* Quick-union (przepnij przedstawiciela subsetu)[mn]
+* Weighted-quick-union(pamietaj rozmiar, mniejsze do wiekszego)[mlog(n)]
+* Path-compression(przy findzie recursive przepinka roota)[n + mlog*(n)]
+ * [log*(n)](https://en.wikipedia.org/wiki/Iterated_logarithm) - jest stała w tym wszechświecie
+
+* NOTE: prosty algorytm, ale dowód jest trudny
+
