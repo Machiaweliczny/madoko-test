@@ -145,5 +145,20 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
   * jak zaburzy kopiec to zmien rodzica na czarnego
   * Jak jest rodzic czarny to odetnij siebie i odetnij rodzica rekurencyjnie
 ## extract-min:
-  * usuwamy min - wrzucamy dzieci na liste korzeni
+  * usuwamy min - wrzucamy dzieci na lisle korzeni
   * sprzatamy, aby bylo po jednym danego stopnia
+
+## Hashowanie
+* Przyklady funkcji haszujacych
+* Kolizje
+ * nawlekanie
+ * adresowanie otwarte
+  * metoda liniowa
+  * metoda kwadratowa
+  * podwójne hashowanie
+* Oczekiwana liczba prób przy poszukiwaniu elementu
+* Uniwersalne rodziny funkcji haszujacych
+
+* Słownik statyczny
+* Dwupoziomowa konstrukcja(?)  
+* Istnienie odpowiednich fukcji haszujacych
