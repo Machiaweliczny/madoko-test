@@ -197,3 +197,11 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 * Operacja splay. 
 * Analiza zamortyzowana ciągów operacji splay. 
 
+## Drzewce
+
+BST z randomami urzymujacymi własność kopca :)
+
+* Definicja. 
+* Losowe drzewce.
+* Operacje słownikowe na drzewcach. 
+* Oczekiwany koszt operacji słownikowych na drzewcach losowych.
