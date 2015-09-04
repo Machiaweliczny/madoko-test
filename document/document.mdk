@@ -278,10 +278,26 @@ matched = (d & matchMask), gdzie matchMask = 1 << paternLength-1;
 
 ## FFT 
 
+~ Begin Vertical
+
 Nasze ulubione zagadnienie :)
 
 * Idea. 
 * Dyskretna transformacja Fouriera. 
 * Własności n-tych pierwiastków z jedności. 
 * Zastosowanie do mnożenia macierzy. 
-* Transformacja odwrotna. 
+* Transformacja odwrotna.
+
+## Idea.
+
+Mnożmy wielomiany w czasie nlog(n) 
+
+## Dyskretna transformacja Fouriera. 
+
+## Własności n-tych pierwiastków z jedności. 
+
+## Zastosowanie do mnożenia macierzy. 
+
+## Transformacja odwrotna. 
+
+~ End Vertical
