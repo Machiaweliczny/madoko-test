@@ -13,21 +13,19 @@ Beamer Theme  : singapore
 
 [TOC]
 
-# Madoko Presentation
-
-Using [Madoko] it is easy to create beautiful presentations.
-
-* [Html][slide]:
-  Uses the `Reveal.js` library by [Hakim El Hattab](http://hakim.se).\
-  This slide demo in Madoko is an adaption of his online demo.
-* [Pdf][slide-pdf]:
-  Uses the `Beamer` package for LaTeX
-* [Source][slide-mdk]:
-  Click to see the source of this presentation.
-
-
-[madoko]: http://madoko.codeplex.com
-
+##Kopiec:
+* [Definicja](https://pl.wikipedia.org/wiki/Kopiec_(informatyka).
+* Procedury przywracające porządek kopcowy: 
+  * Insert - wstaw na koniec, przywracaj porzadek do góry
+  * Delete-min - wywal, wstaw z końca, przywracaj w dół
+* Zastosowania: 
+ * [heapsort](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/MIT6_006F11_lec04.pdf)
+ * [kolejka priorytetowa](https://pl.wikipedia.org/wiki/Kolejka_priorytetowa)
+ * [Podwójna kolejka priorytetowa](https://en.wikipedia.org/wiki/Min-max_heap)
+ 
+[Succinct explaination](http://www.cs.cmu.edu/~adamchik/15-121/lectures/Binary%20Heaps/heaps.html)
+[Other good presentation](http://courses.cs.washington.edu/courses/cse373/06sp/handouts/lecture10.pdf)
+[Budowanie w O(n)](http://www.cs.umd.edu/~meesh/351/mount/lectures/lect14-heapsort-analysis-part.pdf)
 ## Reveal.js
 
 `reveal.js` is a framework for easily creating beautiful presentations using
