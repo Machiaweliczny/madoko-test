@@ -60,5 +60,13 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 * Algorytmy pseudowielomanowe dla problemów plecakowych
 * Przynależność słowa do języka bezkontekstowego.
 * Drzewa rozpinające drabin.
+
+## Dolne granice
 * Drzewa decyzyjne. 
-  * Problem: sortowanie; dolna granica w najgorszym i średnim przypadku. 
+  * Problem: sortowanie; dolna granica w najgorszym i średnim przypadku.
+* liniowe drzewa decyzyjne:  
+ * problem: niepowtarzalność elementów  
+* redukcje  
+* gra z adwersarzem
+* jednoczesne znajdowane minimum i maksimum 
+ 
