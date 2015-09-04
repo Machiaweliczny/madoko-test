@@ -69,4 +69,16 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 * redukcje  
 * gra z adwersarzem
 * jednoczesne znajdowane minimum i maksimum 
- 
+
+## Quicksort
+
+* metody wyboru pivota
+  * deterministyczna
+  * losowa
+  * mediana z małej próbki 
+* analiza oczekiwanego czasu działania przy losowym pivocie;  
+* usprawnienia Quicksorta
+ * trójpodział
+ * eliminacja rekursji
+ * „quicksort w miejscu”
+* QuickHeapsort 
