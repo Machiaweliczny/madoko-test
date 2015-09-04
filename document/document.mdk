@@ -210,6 +210,8 @@ BST z randomami urzymujacymi własność kopca :)
 
 ## Wyszukiwanie wzorców
 
+N dlugosc teskstu, M dlugosc wzorca
+
 * Algorytm naiwny. 
 * Wyszukiwanie wzorców automatem skończonym. 
 * Algorytm Karpa-Rabina. 
@@ -226,6 +228,14 @@ Oh, comeone :)
 ## Wyszukiwanie wzorców automatem skończonym. 
 
 ## Algorytm Karpa-Rabina. 
+
+* Korzysta z latwo obliczalnej funkcji hashujacej
+ * latwo - obliczana w czasie stalym na podstawie poprzedniej
+ * np. zamiana liter na liczby
+* Oblicza te hashe w O(N)
+* Przelatuje w N jak napotka to robi naive matching
+* Worst case: (N-M)*M
+* Ave: Linear
 
 ## Algorytm KMP (Knutha-Morrisa-Pratta). 
 
