@@ -247,13 +247,13 @@ Oh, comeone :)
 * Wykorzystaj to by sobie troche poskakac :)
  * TODO: jak to konkretnie dziala?
 
-## Algorytm Boyera-Moore’a. 
+## [Algorytm Boyera-Moore’a](http://www-igm.univ-mlv.fr/~lecroq/string/node14.html)
 
-* matchuje od dupy strony
+* matchuje od dupy strony (najefektywniej ^^)
 * Dwie heury:
  * good prefix
    * ?
- * bad sufix
+ * bad character
    * podciagaj w prawo az sie jakas litera bedzie zgadzac
 * Zlozonosc: ?
 
