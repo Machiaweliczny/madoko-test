@@ -219,7 +219,7 @@ N dlugosc teskstu, M dlugosc wzorca
 * Algorytm Boyera-Moore’a. 
 * Algorytm Shift-And.
 
-### Ciśniemy w dół
+### Ciśniemy w dół (V)
 
 ## Algorytm naiwny. 
 
@@ -275,3 +275,13 @@ matched = (d & matchMask), gdzie matchMask = 1 << paternLength-1;
 ```
 
 ~ End Vertical
+
+## FFT 
+
+Nasze ulubione zagadnienie :)
+
+* Idea. 
+* Dyskretna transformacja Fouriera. 
+* Własności n-tych pierwiastków z jedności. 
+* Zastosowanie do mnożenia macierzy. 
+* Transformacja odwrotna. 
