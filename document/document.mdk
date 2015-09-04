@@ -296,6 +296,7 @@ Mnożmy wielomiany w czasie nlog(n)
 
 * Przemiel wielomian na reprezentacje punktowa w dyskretnych pierwiastkach jedności
 * Wykorzystujac wlasnosc opisana ponizej pomnoz w czasie logarytmicznym
+ * wykorzystuje metode dziel i zwyciezaj
 * Przemial wielomian na postac normalna 
 * Profit?
 
