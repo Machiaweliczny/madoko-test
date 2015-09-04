@@ -135,7 +135,9 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 ## [Kopce Fibonacciego](http://wazniak.mimuw.edu.pl/index.php?title=Algorytmy_i_struktury_danych/Kolejki_priorytetowe)
 * Inaczej leniwe kopce dwumianowe - tylko po extract-min zachowuja różne stopnie korzenia
 * Zastosowanie: Szybkie descrease-key - Dijkstra
-* Analiza kosztu -> kolejne strony
+* Analiza kosztu (w dól)
+
+~ Begin Vertical
 
 ## Kopce fibonnaciego
 ### Wstawianie:
@@ -154,6 +156,8 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
 ### extract-min:
   * usuwamy min - wrzucamy dzieci na lisle korzeni
   * sprzatamy, aby bylo po jednym danego stopnia
+  
+~ End Vertical
 
 ## Hashowanie
 * Przyklady funkcji haszujacych
