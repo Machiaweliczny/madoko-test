@@ -206,8 +206,9 @@ BST z randomami urzymujacymi własność kopca :)
 * Operacje słownikowe na drzewcach. 
 * Oczekiwany koszt operacji słownikowych na drzewcach losowych.
 
+~ Begin Vertical
+
 ## Wyszukiwanie wzorców
-Wyszukiwanie wzorców.
 
 * Algorytm naiwny. 
 * Wyszukiwanie wzorców automatem skończonym. 
@@ -217,3 +218,17 @@ Wyszukiwanie wzorców.
 * Algorytm Shift-And.
 
 ### Ciśniemy w dół
+
+## Algorytm naiwny. 
+
+## Wyszukiwanie wzorców automatem skończonym. 
+
+## Algorytm Karpa-Rabina. 
+
+## Algorytm KMP (Knutha-Morrisa-Pratta). 
+
+## Algorytm Boyera-Moore’a. 
+
+## Algorytm Shift-And.
+
+~ End Vertical
