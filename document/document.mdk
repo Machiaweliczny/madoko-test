@@ -205,3 +205,15 @@ BST z randomami urzymujacymi własność kopca :)
 * Losowe drzewce.
 * Operacje słownikowe na drzewcach. 
 * Oczekiwany koszt operacji słownikowych na drzewcach losowych.
+
+## Wyszukiwanie wzorców
+Wyszukiwanie wzorców.
+
+* Algorytm naiwny. 
+* Wyszukiwanie wzorców automatem skończonym. 
+* Algorytm Karpa-Rabina. 
+* Algorytm KMP (Knutha-Morrisa-Pratta). 
+* Algorytm Boyera-Moore’a. 
+* Algorytm Shift-And.
+
+### Ciśniemy w dół
