@@ -110,7 +110,7 @@ Problem](http://www.cs.cornell.edu/~kozen/papers/change.pdf)
  * lisc jest czarny
  * czerwony ma tylko czarnych synów :/
  * na każdej scieżce od roota do liścia jest tyle samo czarnych
-* ograniczenie na wysokość - ?
+* ograniczenie na wysokość - 
 * realizacja operacji słownikowych.    
 
 ## B-drzewa.  
